@@ -1,0 +1,893 @@
+PREMIUM SALE – 50% OFF ANNUAL
+
+00: 10: 30: 05VIEW PLANS <https://app.dataquest.io/payment>
+
+<https://app.dataquest.io/dashboard>
+Dashboard <https://app.dataquest.io/dashboard>Learning path
+<https://app.dataquest.io/learning-path>
+Catalog
+
+Projects
+
+Practice <https://app.dataquest.io/practice>Community
+<https://community.dataquest.io/>
+
+<https://app.dataquest.io/account/share>
+
+
+  Data Analyst in Python
+
+
+      25 courses · 1 completed
+
+  *
+
+    Part 1Introduction to Python
+
+      o
+
+        Introduction to Python
+
+          +
+
+            Python Programming
+
+            · 9 screens ·  Completed
+
+          +
+
+            Programming Python Variables
+
+            · 7 screens ·  Completed
+
+          +
+
+            Python Data Types: Integers, Floats, Strings
+
+            · 9 screens ·  Completed
+
+          +
+
+            Python Lists
+
+            · 12 screens ·  Completed
+
+      o
+
+        For Loops and Conditional Statements in Python
+          +
+
+            Python For Loops
+
+            · 11 screens · In progress
+
+            Continue <https://app.dataquest.io/c/115/m/609/python-for-loops>
+          +
+
+            Python If, Else, Elif Statements
+
+            · 8 screens · Not started
+
+          +
+
+            Python If, Else, Elif Statements: Multiple Conditions
+
+            · 10 screens · Not started
+
+          +
+
+            Guided Project: Prison Break
+
+            · 14 screens · Not started
+
+      o
+
+        Dictionaries, Frequency Tables, and Functions in Python
+          +
+
+            Python Dictionaries
+
+            · 8 screens · Not started
+
+          +
+
+            Premium ContentPython Dictionaries and Frequency Tables
+
+            · 11 screens
+
+          +
+
+            Premium ContentPython Functions: Using Built-in Functions
+            and Creating Functions
+
+            · 8 screens
+
+          +
+
+            Premium ContentPython Functions: Arguments, Parameters, and
+            Debugging
+
+            · 9 screens
+
+      o
+
+        Python Functions and Learn Jupyter Notebook
+          +
+
+            Python Functions: Built-in Functions and Multiple Return
+            Statements
+
+            · 8 screens · Not started
+
+          +
+
+            Premium ContentPython Functions: Returning Multiple
+            Variables and Function Scopes
+
+            · 9 screens
+
+          +
+
+            Premium ContentProject: Learn and Install Jupyter Notebook
+
+            · 10 screens
+
+          +
+
+            Premium ContentGuided Project: Profitable App Profiles for
+            the App Store and Google Play Markets
+
+            · 14 screens
+
+      o
+
+        Python for Data Science: Intermediate
+          +
+
+            Cleaning and Preparing Data in Python
+
+            · 10 screens · Not started
+
+          +
+
+            Premium ContentPython Data Analysis Basics
+
+            · 11 screens
+
+          +
+
+            Premium ContentObject-Oriented Python
+
+            · 12 screens
+
+          +
+
+            Premium ContentWorking with Dates and Times in Python
+
+            · 12 screens
+
+          +
+
+            Premium ContentGuided Project: Exploring Hacker News Posts
+
+            · 8 screens
+
+  *
+
+    Part 2Intermediate Python and Pandas
+
+      o
+
+        Pandas and NumPy Fundamentals
+          +
+
+            Introduction to NumPy
+
+            · 14 screens · Not started
+
+          +
+
+            Premium ContentBoolean Indexing with NumPy
+
+            · 12 screens
+
+          +
+
+            Premium ContentIntroduction to pandas
+
+            · 14 screens
+
+          +
+
+            Premium ContentExploring Data with Pandas: Fundamentals
+
+            · 15 screens
+
+          +
+
+            Premium ContentExploring Data with Pandas: Intermediate
+
+            · 14 screens
+
+          +
+
+            Premium ContentData Cleaning Basics
+
+            · 14 screens
+
+          +
+
+            Premium ContentGuided Project: Exploring eBay Car Sales Data
+
+            · 9 screens
+
+      o
+
+        Data Visualization Fundamentals
+          +
+
+            Line Graphs and Time Series
+
+            · 11 screens · Not started
+
+          +
+
+            Premium ContentScatter Plots and Correlations
+
+            · 11 screens
+
+          +
+
+            Premium ContentBar Plots, Histograms, and Distributions
+
+            · 11 screens
+
+          +
+
+            Premium ContentPandas Visualizations and Grid Charts
+
+            · 14 screens
+
+          +
+
+            Premium ContentRelational Plots and Multiple Variables
+
+            · 8 screens
+
+          +
+
+            Premium ContentGuided Project: Finding Heavy Traffic
+            Indicators on I-94
+
+            · 10 screens
+
+      o
+
+        Storytelling Data Visualization and Information Design
+          +
+
+            Design for an Audience
+
+            · 13 screens · Not started
+
+          +
+
+            Premium ContentStorytelling Data Visualization
+
+            · 10 screens
+
+          +
+
+            Premium ContentGestalt Principles and Pre-Attentive Attributes
+
+            · 9 screens
+
+          +
+
+            Premium ContentMatplotlib Styles: FiveThirtyEight Case Study
+
+            · 9 screens
+
+          +
+
+            Premium ContentGuided Project: Storytelling Data
+            Visualization on Exchange Rates
+
+            · 7 screens
+
+  *
+
+    Part 3Data Cleaning in Python
+
+      o
+
+        Data Cleaning and Analysis
+          +
+
+            Premium ContentData Aggregation
+
+            · 14 screens
+
+          +
+
+            Premium ContentCombining Data Using Pandas
+
+            · 11 screens
+
+          +
+
+            Premium ContentTransforming Data with Pandas
+
+            · 10 screens
+
+          +
+
+            Premium ContentWorking with Strings In Pandas
+
+            · 13 screens
+
+          +
+
+            Premium ContentWorking With Missing And Duplicate Data
+
+            · 14 screens
+
+          +
+
+            Premium ContentGuided Project: Clean and Analyze Employee
+            Exit Surveys
+
+            · 11 screens
+
+      o
+
+        Data Cleaning in Python: Advanced
+          +
+
+            Premium ContentRegular Expression Basics
+
+            · 13 screens
+
+          +
+
+            Premium ContentAdvanced Regular Expressions
+
+            · 12 screens
+
+          +
+
+            Premium ContentList Comprehensions and Lambda Functions
+
+            · 14 screens
+
+          +
+
+            Premium ContentWorking with Missing Data
+
+            · 12 screens
+
+      o
+
+        Data Cleaning Project Walkthrough
+          +
+
+            Premium ContentData Cleaning Walkthrough
+
+            · 16 screens
+
+          +
+
+            Premium ContentData Cleaning Walkthrough: Combining the Data
+
+            · 18 screens
+
+          +
+
+            Premium ContentData Cleaning Walkthrough: Analyzing and
+            Visualizing the Data
+
+            · 10 screens
+
+          +
+
+            Premium ContentGuided Project: Analyzing NYC High School Data
+
+            · 6 screens
+
+          +
+
+            Premium ContentChallenge: Cleaning Data
+
+            · 6 screens
+
+          +
+
+            Premium ContentGuided Project: Star Wars Survey
+
+            · 9 screens
+
+  *
+
+    Part 4The Command Line
+
+      o
+
+        Elements of the Command Line
+          +
+
+            Introduction to the Command Line
+
+            · 9 screens · Not started
+
+          +
+
+            Premium ContentThe Filesystem
+
+            · 9 screens
+
+          +
+
+            Premium ContentModifying the Filesystem
+
+            · 10 screens
+
+          +
+
+            Premium ContentGlob Patterns and Wildcards
+
+            · 10 screens
+
+          +
+
+            Premium ContentUsers and Permissions
+
+            · 11 screens
+
+      o
+
+        Text Processing in the Command Line
+          +
+
+            Getting Help and Reading Documentation
+
+            · 10 screens · Not started
+
+          +
+
+            Premium ContentFile Inspection
+
+            · 9 screens
+
+          +
+
+            Premium ContentText Processing
+
+            · 12 screens
+
+          +
+
+            Premium ContentRedirection and Pipelines
+
+            · 10 screens
+
+          +
+
+            Premium ContentStandard Streams and File Descriptors
+
+            · 11 screens
+
+  *
+
+    Part 5Working with Data Sources
+
+      o
+
+        SQL Fundamentals
+          +
+
+            Premium ContentIntroduction to SQL
+
+            · 15 screens
+
+          +
+
+            Premium ContentSummary Statistics
+
+            · 13 screens
+
+          +
+
+            Premium ContentGroup Summary Statistics
+
+            · 14 screens
+
+          +
+
+            Premium ContentSubqueries
+
+            · 9 screens
+
+          +
+
+            Premium ContentGuided Project: Analyzing CIA Factbook Data
+            Using SQL
+
+            · 8 screens
+
+      o
+
+        Intermediate SQL for Data Analysis
+          +
+
+            Premium ContentJoining Data in SQL
+
+            · 10 screens
+
+          +
+
+            Premium ContentIntermediate Joins in SQL
+
+            · 9 screens
+
+          +
+
+            Premium ContentBuilding and Organizing Complex Queries
+
+            · 10 screens
+
+          +
+
+            Premium ContentGuided Project: Answering Business Questions
+            Using SQL
+
+            · 7 screens
+
+          +
+
+            Premium ContentTable Relations and Normalization
+
+            · 10 screens
+
+          +
+
+            Premium ContentQuerying SQLite from Python
+
+            · 12 screens
+
+      o
+
+        APIs and Web Scraping in Python
+          +
+
+            Premium ContentWorking with APIs
+
+            · 11 screens
+
+          +
+
+            Premium ContentIntermediate APIs
+
+            · 11 screens
+
+          +
+
+            Premium ContentChallenge: Working with the reddit API
+
+            · 7 screens
+
+          +
+
+            Premium ContentWeb Scraping
+
+            · 12 screens
+
+      o
+
+        Data Analysis in Business
+          +
+
+            Premium ContentFuzzy Language in Data Science
+
+            · 10 screens
+
+          +
+
+            Premium ContentCommunicating Results
+
+            · 14 screens
+
+          +
+
+            Premium ContentBusiness Metrics
+
+            · 12 screens
+
+          +
+
+            Premium ContentGuided Project: Popular Data Science Questions
+
+            · 11 screens
+
+  *
+
+    Part 6Probability and Statistics
+
+      o
+
+        Statistics Fundamentals
+          +
+
+            Premium ContentSampling
+
+            · 14 screens
+
+          +
+
+            Premium ContentVariables in Statistics
+
+            · 12 screens
+
+          +
+
+            Premium ContentFrequency Distributions
+
+            · 13 screens
+
+          +
+
+            Premium ContentVisualizing Frequency Distributions
+
+            · 13 screens
+
+          +
+
+            Premium ContentComparing Frequency Distributions
+
+            · 11 screens
+
+          +
+
+            Premium ContentGuided Project: Investigating Fandango Movie
+            Ratings
+
+            · 8 screens
+
+      o
+
+        Intermediate Statistics: Averages and Variability
+          +
+
+            Premium ContentThe Mean
+
+            · 13 screens
+
+          +
+
+            Premium ContentThe Weighted Mean and the Median
+
+            · 10 screens
+
+          +
+
+            Premium ContentThe Mode
+
+            · 9 screens
+
+          +
+
+            Premium ContentMeasures of Variability
+
+            · 13 screens
+
+          +
+
+            Premium ContentZ-scores
+
+            · 11 screens
+
+          +
+
+            Premium ContentGuided Project: Finding the Best Markets to
+            Advertise In
+
+            · 8 screens
+
+      o
+
+        Probability: Fundamentals
+          +
+
+            Premium ContentEstimating Probabilities
+
+            · 10 screens
+
+          +
+
+            Premium ContentProbability Rules
+
+            · 10 screens
+
+          +
+
+            Premium ContentSolving Complex Probability Problems
+
+            · 10 screens
+
+          +
+
+            Premium ContentPermutations and Combinations
+
+            · 10 screens
+
+          +
+
+            Premium ContentGuided Project: Mobile App for Lottery Addiction
+
+            · 8 screens
+
+      o
+
+        Conditional Probability
+          +
+
+            Premium ContentConditional Probability: Fundamentals
+
+            · 9 screens
+
+          +
+
+            Premium ContentConditional Probability: Intermediate
+
+            · 10 screens
+
+          +
+
+            Premium ContentBayes Theorem
+
+            · 9 screens
+
+          +
+
+            Premium ContentThe Naive Bayes Algorithm
+
+            · 13 screens
+
+          +
+
+            Premium ContentGuided Project: Building a Spam Filter with
+            Naive Bayes
+
+            · 10 screens
+
+      o
+
+        Hypothesis Testing: Fundamentals
+          +
+
+            Premium ContentSignificance Testing
+
+            · 11 screens
+
+          +
+
+            Premium ContentChi-Squared Tests
+
+            · 12 screens
+
+          +
+
+            Premium ContentMulti-Category Chi-Squared Tests
+
+            · 9 screens
+
+          +
+
+            Premium ContentGuided Project: Winning Jeopardy
+
+            · 8 screens
+
+  *
+
+    Part 7Advanced Topics in Data Analysis
+
+      o
+
+        Command Line: Intermediate
+          +
+
+            Premium ContentWorking with Programs
+
+            · 10 screens
+
+          +
+
+            Premium ContentCommand Line Python Scripting
+
+            · 11 screens
+
+          +
+
+            Premium ContentChallenge: Working with the Command Line
+
+            · 6 screens
+
+          +
+
+            Premium ContentWorking with Jupyter console
+
+            · 9 screens
+
+          +
+
+            Premium ContentPiping and Redirecting Output
+
+            · 9 screens
+
+          +
+
+            Premium ContentChallenge: Data Munging Using The Command Line
+
+            · 6 screens
+
+          +
+
+            Premium ContentData Cleaning and Exploration Using Csvkit
+
+            · 10 screens
+
+      o
+
+        Git and Version Control
+          +
+
+            Premium ContentIntroduction to Git
+
+            · 11 screens
+
+          +
+
+            Premium ContentGit Remotes
+
+            · 10 screens
+
+          +
+
+            Premium ContentGit Branches
+
+            · 10 screens
+
+          +
+
+            Premium ContentMerge Conflicts
+
+            · 9 screens
+
+          +
+
+            Premium ContentProject: Git Installation and GitHub Integration
+
+            · 5 screens
+
+  *
+
+    Part 8Capstone Project
+
+      o
+
+        Data Analyst in Python Capstone Project
+          +
+
+            Data Analyst in Python Capstone Project
+
+            · 5 screens · Not started
+
+Help Center
+Username
+
+Help Center
+Content Help
+Site Status
+Report an Issue
+Message Us
+Share Feedback
+Elevio by Dixa
