@@ -1,0 +1,98 @@
+/* styles.css */
+
+/* Reset default browser styles */
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: "Merriweather", Georgia, serif;
+    line-height: 1.5;
+    color: #333;
+    background-color: #ececec;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #003366;
+    padding: 20px;
+    color: #fff;
+    position: fixed;
+    width:100%
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+main {
+    padding: 20px;
+    background-color: rgba(217, 215, 255, 0.445);
+    
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+
+article {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+article h3 {
+    margin-bottom: 10px;
+    color: #003366;
+}
+
+article p {
+    margin-bottom: 20px;
+}
+
+article a {
+    color: #003366;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #003366;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
